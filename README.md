@@ -15,12 +15,12 @@ Apply multimedia elements such as audio and video.
 
 >[!NOTE]
 >  The registration form should have:
-- Name, email, password, and date fields.
-- A dropdown, radio buttons, and checkboxes.
-- Proper labels and placeholders.
-- Required fields and validation attributes.
-- Ensure proper indentation and commenting.
-- 
+>- Name, email, password, and date fields.
+>- A dropdown, radio buttons, and checkboxes.
+>- Proper labels and placeholders.
+>- Required fields and validation attributes.
+>- Ensure proper indentation and commenting.
+ 
 # Tasks
 - Create a well-structured HTML5 document.
 - Ensure semantic correctness.
